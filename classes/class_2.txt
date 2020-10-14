@@ -1,0 +1,13 @@
+Class: staff
+
+Attributes:
+position = (string)
+training = (array)
+salary = (float)
+annual_review (boolean)
+
+Methods:
+change_position (re-assign position string)
+add_training (modify training array)
+give_promotion (increase salary float)
+give_review (change anual_review to true)
