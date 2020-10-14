@@ -1,0 +1,14 @@
+Class: staff
+Object: steve_green
+
+Attributes:
+position = "Buss boy"
+training = [“customer service lvl 1”]
+salary = 15.27
+annual_review = false
+
+Methods:
+change_position = position = "Waiter"
+add_training = training = [“customer service lvl 1”, “customer service lvl 2”, “minu familiarization”, “register procedures”]
+give_promotion = salary = 21.81
+give_review = annual_review = true
