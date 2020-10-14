@@ -1,0 +1,14 @@
+Class: dish
+Object sandwich
+
+Attributes:
+ingredients = [“bread”, “turkey”, “tomatoes”, “mustard”]
+cost = 5.87
+prep_time = 5
+gluten_free = false
+
+Methods:
+add_ingredient = ingredients = [“bread”, “turkey”, “tomatoes”, “mustard”, “pickles”]
+discount = cost = 4.27
+make gluten_free = gluten_free = true
+rush_order = prep_time = 2
