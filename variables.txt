@@ -1,0 +1,13 @@
+food = "taco"
+is_delicious = true
+food = "toast"
+
+num2 = 5
+num7 = 10
+quotient = num7 / num2
+
+songs = ["Ring of Fire", "Shatter Me", "Dust in The Wind"]
+songs.slice!(0)
+
+food.size
+#this could also be food.length
