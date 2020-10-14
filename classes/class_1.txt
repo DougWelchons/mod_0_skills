@@ -1,0 +1,13 @@
+Class: dish
+
+attributes:
+ingredients (array)
+cost (float)
+prep_time (intiger)
+gluten_free (boolean)
+
+Methods:
+add_ingredient (add a string to the ingredients array)
+discount (lower the integer for cost)
+make gluten_free (change gluten_free to true)
+rush_order (reduce prep_time)
